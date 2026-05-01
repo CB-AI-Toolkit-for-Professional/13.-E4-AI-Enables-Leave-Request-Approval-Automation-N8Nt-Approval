@@ -35,6 +35,10 @@ This project solves that through a fully automated pipeline:
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/CB-AI-Toolkit-for-Professional/13.-E4-AI-Enables-Leave-Request-Approval-Automation-N8Nt-Approval/main/Thumbnail.png)](https://www.youtube.com/watch?v=ISPovD_h0-E)
+
+---
+
 ## 🔄 Automation Workflow
 
 ### 🔹 1. Workflow: Application Request 
